@@ -1,4 +1,4 @@
 # LazerCatGameProject
 Project for education
 
-I have no idea what I'm doing...
+чтобы опробовать готовую игру, скачайте файл Build1 и запустите LazerCatGame.exe
